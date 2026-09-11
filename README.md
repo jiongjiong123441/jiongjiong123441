@@ -192,12 +192,12 @@ I actively maintain projects across two GitHub accounts:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jiongjiong123441&hide_border=true"
-  width="95%"
+src="https://github-readme-activity-graph-841k2snp8.vercel.app/graph?username=jiongjiong123441&hide_border=true&theme=github-compact&area=true"
+width="95%"
+alt="Jiongjiong's Contribution Activity Graph"
 />
 
 </div>
-
 ---
 
 ## 🔨 Currently Building
