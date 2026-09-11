@@ -182,22 +182,19 @@ Systems
 ```
 
 ---
+## 📈 Development Activity
 
-## 📊 GitHub Stats
+I actively maintain projects across two GitHub accounts:
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiongjiong123441&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiongjiong123441&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br/>
+- [`jiongjiong123441`](https://github.com/jiongjiong123441) — personal and open-source projects
+- [`aaoqqqdd`](https://github.com/aaoqqqdd) — GeekSlope and production projects
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiongjiong123441&theme=github-compact&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jiongjiong123441&hide_border=true"
+  width="95%"
+/>
 
 </div>
 
